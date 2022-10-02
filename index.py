@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #authors: yeasy.github.com
-#date: 2013-10-03
+#date: 2013-10-02
 
 import sys
 import BaseHTTPServer
